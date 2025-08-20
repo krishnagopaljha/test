@@ -1,0 +1,6 @@
+# Site settings
+title: My Awesome Site
+description: A brief description of my new site.
+
+# Theme
+theme: jekyll-theme-minimal
